@@ -1,0 +1,17 @@
+{
+  "name": "writingprompts",
+  "version": "1.0.0",
+  "description": "web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "writingprompts"
+  ],
+  "author": "aman",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^5.5.9"
+  }
+}
